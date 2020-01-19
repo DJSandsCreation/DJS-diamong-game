@@ -1,0 +1,2 @@
+# DJS-diamong-game
+So I used HTML, CSS and JavaScript to code a game. The game tests the reaction times of the security team at the House of Volkov. I used JavaScript timers and a game loop to make the game. Every second, images of six people will be shown on screen. Five images will be of guests and one image will be of a thief. If you click on the thief you gain one point. If you click on a guest you will lose two points. This will happen six times and each time the thief will be in a different place. The aim of the game is to spot all 6 thieves and score 6 points.
